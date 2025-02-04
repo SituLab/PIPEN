@@ -1,7 +1,5 @@
-# 项目介绍
-    本项目是针对代码工具链生成的DDS服务文件所建立的。
- 
-    能够将多个DDS服务文件进行合并，构建DDS基本服务端以及客户端程序框架。包含生成server.cpp、client.cpp、CMakeLists.txt
+# Introduction
+    This is torch demo implementation of paper (Physically Enhanced Neural Network Based on Projection Map Synthesis for Chemiluminescence Tomography Reconstruction with Limited Views). You may get more information in the original paper:
  
 # 环境依赖
  
