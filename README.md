@@ -1,6 +1,6 @@
 # Physically Enhanced Neural Network Based on Projection Map Synthesis for Chemiluminescence Tomography Reconstruction with Limited Views
 # Introduction
-    This is torch demo implementation of paper (Physically Enhanced Neural Network Based on Projection Map Synthesis for Chemiluminescence Tomography Reconstruction with Limited Views). You may get more information in the original paper:
+This is torch demo implementation of paper (Physically Enhanced Neural Network Based on Projection Map Synthesis for Chemiluminescence Tomography Reconstruction with Limited Views). You may get more information in the original paper:
 
 Paper
 Sunyong Zhu, Ying Jin, Xiangyu Zhang, Quanying Wu and Guohai Situ, "Physically Enhanced Neural Network Based on Projection Map Synthesis for Chemiluminescence Tomography Reconstruction with Limited Views," Opt. Express
