@@ -44,7 +44,7 @@ This study introduces a two-step neural network (PIPEN) designed for volumetric 
  ![Image text](image/pipen.png)
 
 # Result
- 
+Our method provides the best reconstruction quality, more results can be found in paper. 
  ![Image text](image/pipen%20result.png)
  
 
