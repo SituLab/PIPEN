@@ -40,7 +40,7 @@ Paper Link: https://doi.org/10.1364/OE.545447
  
 Framework
  
- ![Image text](pipen.png)
+ ![Image text](https://github.com/SituLab/PIPEN/blob/main/pipen.png)
  
 
  
