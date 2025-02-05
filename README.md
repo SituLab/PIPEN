@@ -9,12 +9,12 @@ Sunyong Zhu, Ying Jin, Xiangyu Zhang, Quanying Wu and Guohai Situ, "Physically E
 Paper Link: https://doi.org/10.1364/OE.545447
  
 # Environment Configuration
-os
-numpy
-tensorflow
-PIL
-scipy
-h5py
+  os
+  numpy
+  tensorflow
+  PIL
+  scipy
+  h5py
  
  
 # Description of the catalogue structure
