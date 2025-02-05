@@ -39,6 +39,7 @@ Paper Link: https://doi.org/10.1364/OE.545447
     
  
 # Framework
+This study introduces a two-step neural network (PIPEN) designed for volumetric tomography. A priori data from projection interpolation network in the first step is integrated with physical constraints from the forward imaging model of volumetric tomography used in the second step. The PIPEN demonstrates high scalability in addressing both data distribution shifts and limited-view scenarios.
  
  ![Image text](image/pipen.png)
 
